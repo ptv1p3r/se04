@@ -47,7 +47,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Background Location Service'),
+          title: const Text('ISMAT Sistemas Embebidos 2019-2020'),
         ),
         body: Center(
           child: ListView(
